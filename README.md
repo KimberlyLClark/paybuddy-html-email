@@ -1,4 +1,4 @@
-# Paybuddy Creadit Provider HTML Email
+# Paybuddy Credit Provider HTML Email
 
 Sample Recreated Transactional HTML Email for a Credit Provider - Responsive
 
